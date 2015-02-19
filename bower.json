@@ -6,8 +6,8 @@
     "ignore": [
         "*",
         "!anim-in-out.js",
-        "!css/*.css",
-        "!scss/*.scss"
+        "!css/",
+        "!scss/"
     ],
     "dependencies": {
         "angular": "~1.3",
